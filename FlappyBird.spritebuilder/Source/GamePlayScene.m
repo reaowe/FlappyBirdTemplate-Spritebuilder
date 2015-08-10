@@ -5,6 +5,8 @@
 @implementation GamePlayScene
 
 - (void)initialize
+
+  [self addObstacle];
 {
     // your code here
     
